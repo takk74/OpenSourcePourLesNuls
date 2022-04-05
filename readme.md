@@ -13,7 +13,7 @@ Vous devriez trouver beaucoup d'information sur les sites suivants :
 ## Comment contribuer à un projet open source sur Github ?
 
 1. Fork
-2. ....
+2. Pull request
 
 # Concepts
 ## Propriétaire vs Open Source
@@ -27,9 +27,9 @@ Un logiciel libre permet à ses utilisateurs, qu'ils soient seuls ou en équipe,
 2. La liberté de redistribuer les copies que vous avez reçues
 3. La liberté de distribuer des copies de vos versions modifiées pour donner à toute la communauté une chance de profiter de vos modifications
 
-Un logiciel Open Source est en effet libre mais propose aussi 
+Un logiciel Open Source est en effet libre mais propose aussi son code en ligne avec la possibilité d'y contribuer
 ## Gratuit vs Open Source
-Un logiciel free (gratuit) est un logiciel que n'importe qui peut télécharger sans contrepartie. Un logiciel Open Source est un logiciel 
+Un logiciel free (gratuit) est un logiciel que n'importe qui peut télécharger sans contrepartie. Un logiciel Open Source n'est pas forcément gratuit.
 
 # Les termes de l'open source / Dev
 
