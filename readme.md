@@ -1,19 +1,15 @@
----
-title: Open source Cheat Sheet Collaborative
-tags: courses, B3 BWSM, cheat sheet, open source
----
-
-:::info
-Vous devriez trouver beaucoup d'information sur les sites suivants : 
-* [Libre vs Open Source](https://www.developpez.com/actu/87401/Logiciel-libre-et-open-source-les-deux-concepts-sont-parfois-utilises-de-maniere-interchangeable-mais-quelle-est-la-difference/#:~:text=Diff%C3%A9rence%20fondamentale%20entre%20logiciel%20libre%20et%20open%20source&text=Selon%20Richard%20Stallman%2C%20la%20diff%C3%A9rence,libre%20est%20un%20mouvement%20social%20%C2%BB.)
-* [Open Source Guide](https://opensource.guide/how-to-contribute/)
-* Ce qu'on a fait en cours
-:::
-
 ## Comment contribuer à un projet open source sur Github ?
-
-1. Fork
-2. Pull request
+0. Chercher une issue intéressante : [GoodFirstIssue] 👀(https://goodfirstissue.dev/language/csharp)
+1. [Fork](##Forking)
+![](https://i.imgur.com/eTlPq3W.png)
+2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git`
+3. Lire les documents texte du projet (readme, contributing, ...) 📖
+4. Coder 👨🏻‍💻
+5. Commit : `git add --all && git commit -m 'COMMIT-EXPLICITE'`
+6. Fetch source : `git fetch origin`
+7. Pull request
+8. Communication / feedback 💬
+9. Pull request acceptée ✅
 
 # Concepts
 ## Propriétaire vs Open Source
@@ -67,7 +63,3 @@ Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le parti
 - Topics
 - Description
 - Badge 
-
-:::danger
-N'hésitez pas à rajouter des concepts et termes au fil de votre prise de note ici ! Le but est que vos connaissances soit partagées / diffusées
-:::
