@@ -56,6 +56,9 @@ Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le parti
 ## Maintainers 
 > Les contributeurs reponsables de maintenir l'organisation du projet (branches, commits, revues...)
 ## Contributors 
+- Corentin PERROUX - https://github.com/Corentin7301
+- Raphaël BEAUDET - https://github.com/Raphy73
+- Arthur TASSOT - https://github.com/takk74/
 
 ## Discoverability of repository
 
