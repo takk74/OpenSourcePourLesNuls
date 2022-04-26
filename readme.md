@@ -60,6 +60,6 @@ Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le parti
 ## Discoverability of repository
 
 > Ajouter des liens d'aide et des ressources pour les sujets suivants et d'autres éléments
-- Topics
-- Description
-- Badge 
+**Topics :** Cette section de GitHub vous permettra de vous lancer dans le monde de l'open source en contribuant à toutes sortes de projets.
+**Description :** La description d'un repository GitHub est importante pour comprendre rapidement la nature de votre projet. 
+**Badge :** Un badge GitHub est l'équivalent d'un "tag". Il peut par exemple permettre de savoir l'avancé d'un projet, les technologies utilisées... Il en existe des centaines.
