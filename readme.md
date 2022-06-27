@@ -50,7 +50,7 @@ La bifurcation d’un dépôt est similaire à la copie d’un dépôt, avec deu
 
 Vous pouvez utiliser une requête de tirage pour suggérer des modifications de votre fork appartenant à l’utilisateur vers le dépôt original dans son instance GitHub, également connu sous le nom de dépôt amont.
 Vous pouvez apporter des modifications du dépôt amont à votre branche locale en synchronisant votre branche avec le dépôt amont.
-# Les gens
+# Les acteurs
 
 ## Author
 Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le participant et l’auteur. La différence entre les deux est que l’auteur est la personne qui a écrit les changements, tandis que le participant est la personne qui leur a téléchargé le dépôt.
