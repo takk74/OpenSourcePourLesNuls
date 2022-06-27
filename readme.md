@@ -7,7 +7,6 @@
 
 0. Chercher une issue intéressante : [GoodFirstIssue] 👀(https://goodfirstissue.dev/language/csharp)
 1. [Fork](#Forking)
-![](https://i.imgur.com/eTlPq3W.png)
 2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 3. Lire les documents texte du projet (readme, contributing, ...) 📖
 4. Coder en respectant le guide de contribution 👨 (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
@@ -52,8 +51,9 @@ Un logiciel free (gratuit) est un logiciel que n'importe qui peut télécharger 
 
 ## Issue
 > Les issues servent à suivre les idées, les commentaires, les tâches ou les bogues pour le travail sur GitHub.
-## Contributing.md
+![](assets/img/issues.png)
 
+## Contributing.md
 > Un fichier de contributions est un fichier texte que les gestionnaires de projets incluent dans les packages de logiciels libres et open source pour décrire comment d'autres peuvent contribuer au projet.
 ## Readme.md
 > Le fichier README est un fichier contenant des informations sur les autres fichiers du même répertoire ou sur le projet en lui même s'il est placé à la racine.
@@ -61,9 +61,11 @@ Un logiciel free (gratuit) est un logiciel que n'importe qui peut télécharger 
 > Permet de fixer les règles de base du comportement des participants associés et contribue à faciliter un environnement convivial et accueillant. Bien que tous les projets ne disposent pas d'un fichier CODE_OF_CONDUCT, sa présence signale qu'il s'agit d'un projet accueillant auquel contribuer.
 ## Pull Request 
 > Les Pull Requests vous permettent d'informer les autres des modifications que vous avez apportées à une branche d'un dépôt sur GitHub. Une fois qu'une demande de retrait est ouverte, vous pouvez discuter et revoir les changements potentiels avec des collaborateurs et ajouter des commits de suivi avant que vos changements ne soient fusionnés dans la branche de base.
+![](assets/img/pull_request.png)
+
 ## Forking
 Un fork est une copie d’un dépôt que vous gérez. Forks vous permet de modifier un projet sans affecter le dépôt d’origine. Vous pouvez récupérer des mises à jour ou soumettre des modifications au dépôt d’origine avec des requêtes de tirage.
-
+![](assets/img/fork.png)
 La bifurcation d’un dépôt est similaire à la copie d’un dépôt, avec deux différences majeures :
 
 Vous pouvez utiliser une requête de tirage pour suggérer des modifications de votre fork appartenant à l’utilisateur vers le dépôt original dans son instance GitHub, également connu sous le nom de dépôt amont.
@@ -78,18 +80,24 @@ Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le parti
 ## Maintainers 
 > Les contributeurs responsables de maintenir l'organisation du projet (branches, commits, revues...)
 ## Contributors 
-- Corentin PERROUX - https://github.com/Corentin7301
-- Raphaël BEAUDET - https://github.com/Raphy73
-- Arthur TASSOT - https://github.com/takk74/
+- Corentin PERROUX - <https://github.com/Corentin7301>
+- Raphaël BEAUDET - <https://github.com/Raphy73>
+- Arthur TASSOT - <https://github.com/takk74/>
+- Corentin DELEUSE - <https://github.com/deleusec/>
 
+![](assets/img/contributors.png)
 ## Discoverability of repository
 
 **Topics :** Cette section de GitHub vous permettra de vous lancer dans le monde de l'open source en contribuant à toutes sortes de projets.
 
 **Description :** La description d'un repository GitHub est importante pour comprendre rapidement la nature de votre projet. 
 
-**Badge :** Un badge GitHub est l'équivalent d'un "tag". Il peut par exemple permettre de savoir l'avancé d'un projet, les technologies utilisées... Il en existe des centaines.
+**Badge :** Un badge GitHub est l'équivalent d'un "tag". Il peut par exemple permettre de savoir l'avancé d'un projet, les technologies utilisées... 
+Voici ci-dessous quelques exemples.
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 # Exemples 
 - **Licences** : La licence Apache est une licence permissive, compatible avec la licence GNU GPL v3
 - **Code of conduct** : Le code doit être enitèrement écrit en anglais. 
