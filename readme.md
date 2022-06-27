@@ -17,7 +17,7 @@
 9. Pull request acceptée ✅
 
 # Introduction
-## L'interet de l'open source ?
+## L'intérêt de l'open source ?
 Un logiciel open source est un logiciel comportant un code source que n’importe qui peut inspecter, modifier et améliorer.
 
 Le « code source », c’est en fait la partie du logiciel que la plupart des utilisateurs d’ordinateurs ne voient jamais lors d’un projet : c’est le code que les programmeurs informatiques manipulent pour changer le fonctionnement d’un logiciel ou d’une application. Les programmeurs qui ont accès au code source d’un logiciel informatique peuvent l’améliorer en y ajoutant des fonctionnalités selon leur propre projet ou modifier certains aspects qui ne fonctionnent pas toujours correctement.
