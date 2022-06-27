@@ -11,6 +11,9 @@
 8. Communication / feedback 💬
 9. Pull request acceptée ✅
 
+# Pourquoi faire de l'open source ?
+Un projet Open Source permet de rassembler davantage de développeurs. Au lieu d'avoir un projet privé, d'autres cerveaux peuvent venir vous aider à contribuer au développement. Cela permet aussi d'ajuster un logiciel en fonction des besoin de chacun. Par exemple, il est possible de créer des modules sur le Headless CMS Strapi. 
+
 # Concepts
 ## Propriétaire vs Open Source
 Un logiciel propriétaire est un logiciel à licence. Celui-ci est développé et modifié par une entreprise ou un individuel. Il est impossible de modifier l'un de ces logiciels. L'Open Source quant à lui est entièrement modifiable (sous licence)
