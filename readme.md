@@ -13,7 +13,7 @@
 4. Coder en respectant le guide de contribution 👨 (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 5. Commit : `git add --all && git commit -m 'COMMIT-EXPLICITE'` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 6. Fetch source : `git fetch origin` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
-7. Créer une pull request afin que le possesseur l'accepte et merge le code ! https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+7. Créer une pull request afin que le possesseur l'accepte et merge le code ! (cf. [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request](#Comment-créer-pull-request))
 8. Communication / feedback 💬
 9. Pull request acceptée ✅
 
