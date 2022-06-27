@@ -1,6 +1,6 @@
 ## Comment contribuer à un projet open source sur Github ?
 0. Chercher une issue intéressante : [GoodFirstIssue] 👀(https://goodfirstissue.dev/language/csharp)
-1. [Fork](##Forking)
+1. [Fork](#Forking)
 ![](https://i.imgur.com/eTlPq3W.png)
 2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git`
 3. Lire les documents texte du projet (readme, contributing, ...) 📖
@@ -50,14 +50,14 @@ La bifurcation d’un dépôt est similaire à la copie d’un dépôt, avec deu
 
 Vous pouvez utiliser une requête de tirage pour suggérer des modifications de votre fork appartenant à l’utilisateur vers le dépôt original dans son instance GitHub, également connu sous le nom de dépôt amont.
 Vous pouvez apporter des modifications du dépôt amont à votre branche locale en synchronisant votre branche avec le dépôt amont.
-# Les gens
+# Les acteurs open-source
 
 ## Author
 Git stocke le nom et l’e-mail de deux personnes pour chaque commit : le participant et l’auteur. La différence entre les deux est que l’auteur est la personne qui a écrit les changements, tandis que le participant est la personne qui leur a téléchargé le dépôt.
 ## Owner
 > La ou les personnes qui détiennent la propriété de l'organisation. 
 ## Maintainers 
-> Les contributeurs reponsables de maintenir l'organisation du projet (branches, commits, revues...)
+> Les contributeurs responsables de maintenir l'organisation du projet (branches, commits, revues...)
 ## Contributors 
 - Corentin PERROUX - https://github.com/Corentin7301
 - Raphaël BEAUDET - https://github.com/Raphy73
