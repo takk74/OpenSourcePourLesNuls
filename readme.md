@@ -58,7 +58,8 @@ Un logiciel free (gratuit) est un logiciel que n'importe qui peut télécharger 
 ## Readme.md
 > Le fichier README est un fichier contenant des informations sur les autres fichiers du même répertoire ou sur le projet en lui même s'il est placé à la racine.
 ## CODE_OF_CONDUCT.md
-> Permet de fixer les règles de base du comportement des participants associés et contribue à faciliter un environnement convivial et accueillant. Bien que tous les projets ne disposent pas d'un fichier CODE_OF_CONDUCT, sa présence signale qu'il s'agit d'un projet accueillant auquel contribuer.
+> Permet de fixer les règles de base du comportement des participants associés et contribue à faciliter un environnement convivial et accueillant. Bien que tous les projets ne disposent pas d'un fichier CODE_OF_CONDUCT, sa présence signale qu'il s'agit d'un projet accueillant auquel contribuer. Voici aussi [notre CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+
 ## Pull Request 
 > Les Pull Requests vous permettent d'informer les autres des modifications que vous avez apportées à une branche d'un dépôt sur GitHub. Une fois qu'une demande de retrait est ouverte, vous pouvez discuter et revoir les changements potentiels avec des collaborateurs et ajouter des commits de suivi avant que vos changements ne soient fusionnés dans la branche de base.
 ## Forking
