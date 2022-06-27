@@ -10,7 +10,7 @@
 ![](https://i.imgur.com/eTlPq3W.png)
 2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 3. Lire les documents texte du projet (readme, contributing, ...) 📖
-4. Coder 👨🏻‍💻
+4. Coder en respectant le guide de contribution 👨 (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 5. Commit : `git add --all && git commit -m 'COMMIT-EXPLICITE'` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 6. Fetch source : `git fetch origin` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 7. Pull request
