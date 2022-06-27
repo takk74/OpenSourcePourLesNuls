@@ -11,6 +11,18 @@
 8. Communication / feedback 💬
 9. Pull request acceptée ✅
 
+# Introduction
+## L'interet de l'open source ?
+Un logiciel open source est un logiciel comportant un code source que n’importe qui peut inspecter, modifier et améliorer.
+
+Le « code source », c’est en fait la partie du logiciel que la plupart des utilisateurs d’ordinateurs ne voient jamais lors d’un projet : c’est le code que les programmeurs informatiques manipulent pour changer le fonctionnement d’un logiciel ou d’une application. Les programmeurs qui ont accès au code source d’un logiciel informatique peuvent l’améliorer en y ajoutant des fonctionnalités selon leur propre projet ou modifier certains aspects qui ne fonctionnent pas toujours correctement.
+
+## Les valeurs
+Ce mouvement s'est organisé autour de l'idée des libertés des utilisateurs : la liberté d'accéder au code source, de le modifier et de le redistribuer, pour le rendre disponible à d'autres personnes, qui peuvent ensuite en faire ce qu'elles veulent.
+
+## La finalité 
+« Open source » désigne un logiciel ou un projet dans lequel le code source est à la disposition du grand public, et c'est le plus souvent un effort de collaboration où les programmeurs améliorent ensemble le code source et partagent les changements au sein de la communauté ainsi que d'autres membres peuvent contribuer.
+
 # Pourquoi faire de l'open source ?
 Un projet Open Source permet de rassembler davantage de développeurs. Au lieu d'avoir un projet privé, d'autres cerveaux peuvent venir vous aider à contribuer au développement. Cela permet aussi d'ajuster un logiciel en fonction des besoin de chacun. Par exemple, il est possible de créer des modules sur le Headless CMS Strapi. 
 
