@@ -1,12 +1,18 @@
 ## Comment contribuer à un projet open source sur Github ?
+
+**Il faut d'abord savoir qu'il existe plusieurs manières de contribuer à l'open source. Le code et GIT ne sont pas les seuls moyens de contribuer.**
+
+### Pour en savoir plus sur GIT : [Git pour les Nuls](https://github.com/takk74/GitPourLesNuls)
+
+
 0. Chercher une issue intéressante : [GoodFirstIssue] 👀(https://goodfirstissue.dev/language/csharp)
 1. [Fork](#Forking)
 ![](https://i.imgur.com/eTlPq3W.png)
-2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git`
+2. Clone : `git clone https://github.com/NAMESPACE/REPONAME.git` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 3. Lire les documents texte du projet (readme, contributing, ...) 📖
 4. Coder 👨🏻‍💻
-5. Commit : `git add --all && git commit -m 'COMMIT-EXPLICITE'`
-6. Fetch source : `git fetch origin`
+5. Commit : `git add --all && git commit -m 'COMMIT-EXPLICITE'` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
+6. Fetch source : `git fetch origin` (cf. [Pour en savoir plus sur GIT](#Pour-en-savoir-plus-sur-GIT))
 7. Pull request
 8. Communication / feedback 💬
 9. Pull request acceptée ✅
